@@ -1,0 +1,24 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers de configuration sensibles
+.env
+
+# Python cache & compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Base de données SQLite (si utilisée)
+*.sqlite3
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
